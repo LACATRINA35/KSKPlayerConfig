@@ -1,0 +1,7 @@
+{
+  "primaryServer": "http://tr.ksktvizle.xyz:8080",
+  "backupServer": "http://premiumtv001.xyz:8080",
+  "maintenance": false,
+  "message": "",
+  "minVersion": 1
+}
